@@ -57,7 +57,7 @@ This dashboard was developed to present complex data in an accessible and decisi
 
 If you enjoyed this project or have feedback, feel free to connect with me!
 
-[LinkedIn](www.linkedin.com/in/sita-rama-raju-damera-b78327325)
+[LinkedIn](https://www.linkedin.com/in/sita-rama-raju-damera-b78327325)
 
 [Github](https://github.com/SitaramarajuDamera)
 
